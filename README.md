@@ -1,4 +1,5 @@
-# EXNO:4-DS
+# EXNO:4-Feature Scaling and Selection
+
 
 ## NAME    :  DINESH KARTHICK K J 
 ## ROLL NO : 212222100011
